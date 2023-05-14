@@ -23,7 +23,7 @@ Deliverable 4: A Written Report on the Credit Risk Analysis README.md
 ## Results:
 
 
-<img width="364" alt="image" src="https://github.com/Merabu/Credit_Risk_Analysis/assets/115379848/d338c43e-5105-4109-9988-f0c04bf734ea">
+
 
 
 
