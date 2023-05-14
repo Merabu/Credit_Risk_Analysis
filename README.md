@@ -44,3 +44,6 @@ Deliverable 4: A Written Report on the Credit Risk Analysis README.md
 <img width="506" alt="image" src="https://github.com/Merabu/Credit_Risk_Analysis/assets/115379848/ad530661-1b1b-486b-9324-2aaae8015b53">
 
 ### Easy Ensemble AdaBoost Classifier
+
+<img width="467" alt="image" src="https://github.com/Merabu/Credit_Risk_Analysis/assets/115379848/c90ea960-7160-4afa-81a7-ba9775c730a7">
+
