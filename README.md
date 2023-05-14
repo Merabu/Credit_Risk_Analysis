@@ -49,4 +49,4 @@ Deliverable 4: A Written Report on the Credit Risk Analysis README.md
 
 ## Summary;
 
-Out of all the models, using EasyEnsembleClassifer is most effictive which provides a highest score for Risk Loans
+Out of all the models, using EasyEnsembleClassifer is most effictive and accurate which provides a highest score for Risk Loans
