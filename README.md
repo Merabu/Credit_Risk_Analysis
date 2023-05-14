@@ -41,4 +41,6 @@ Deliverable 4: A Written Report on the Credit Risk Analysis README.md
 
 ### Balanced Random Forest Classifier
 
+<img width="506" alt="image" src="https://github.com/Merabu/Credit_Risk_Analysis/assets/115379848/ad530661-1b1b-486b-9324-2aaae8015b53">
 
+### Easy Ensemble AdaBoost Classifier
